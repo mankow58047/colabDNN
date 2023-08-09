@@ -1,3 +1,12 @@
 README file
 
-To run the file please click on the 'Open in Colab' button in the upper left side of the file.  
+To execute the "Colabdnn.ipynb" file, kindly click on the 'Open in Colab' button located in the upper left corner of the file interface. This action 
+will initiate the notebook in Google Colab, allowing you to interact with and run the code within the notebook.
+
+The code within "Colabdnn.ipynb" presents a thorough process that encompasses data loading, preprocessing, model training, evaluation, and visualization 
+utilizing TensorFlow and Keras. The code investigates diverse model configurations and determines the most effective setup by minimizing the Mean 
+Squared Error (MSE). This project was crafted as a component of an Introduction to AI course, employing Python, TensorFlow, NumPy, Pandas, and 
+Matplotlib within the Google Colab environment. The principal objective was to construct regression models and visualize their predictive outcomes. 
+The dataset employed in the project was provided by Dr. Ludwig, the course instructor.
+
+
